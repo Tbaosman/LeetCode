@@ -27,4 +27,4 @@ print(Solution().isValid("()"))          # Output: True
 print(Solution().isValid("(]"))          # Output: False
 print(Solution().isValid("([)]"))        # Output: False
 print(Solution().isValid("{[]}"))        # Output: True
-print(Solution().isValid(""))        # Output: True
+print(Solution().isValid(""))            # Output: False
